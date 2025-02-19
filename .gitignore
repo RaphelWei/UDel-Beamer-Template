@@ -14,6 +14,7 @@
 *.nav
 *.snm
 *.vrb
+*.run.xml
 
 # Compiled output files (if you don't want to track the PDFs, uncomment these)
 *.dvi
